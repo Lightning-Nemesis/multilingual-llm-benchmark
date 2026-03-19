@@ -1,0 +1,608 @@
+{
+  "als": {
+    "instruction": "Ju jeni një asistent matematikore.",
+    "question": "Roger ka 5 topa tenisi. Ai blej dy lata të tjera top tenisi. Secili ka 3 topa tenisi. Sa topa tenisi ka tani?",
+    "steps": "Roger filloi me 5 topa. 2 lata me 3 topa tenisi secili është 6 topa tenisi. 5 + 6 = 11.",
+    "answer": "Përgjigja është 11."
+  },
+  "arz": {
+    "instruction": "انت مساعد رياضيات. اعطى التفكير والجواب النهائي في الشكل التالي.",
+    "question": "روجر ليه خمسة كرات تنس. اشترى كرتين تانيه كرات تنس. كل كرتين ليه ثلاث كرات تنس. كم كرات تنس لديه الآن؟",
+    "steps": "روجر بدأ بـ 5 كرات. 2 علبة من 3 كرات تنس لكل 6 كرات تنس. 5 + 6 = 11.",
+    "answer": "الإجابة هي 11."
+  },
+  "ast": {
+    "instruction": "Esti ye un asistente de matemátiques.",
+    "question": "Roger tien 5 pelotas de tenis. Compra 2 más lataes de pelotas de tenis. Cada lata tien 3 pelotas de tenis. Cuántos pelotas de tenis tien agora?",
+    "steps": "Roger empezó con 5 pelotes. 2 latas de 3 pelotes de tenis son 6 pelotes de tenis cada unu. 5 + 6 = 11.",
+    "answer": "La respuesta ye 11."
+  },
+  "azb": {
+    "instruction": "ریاضیات یارادیجیسیسیسان. آشاغیداکی فورماتدا معقول و حتمی جاواب وئر.",
+    "question": "روجرین بش تنیس توپو وار. او داها 2 دَیَن تنیس توپو آلیب. هر دَیَن ده 3 تنیس توپو وار. او، نه قدر تنیس توپو وار؟",
+    "steps": "روجر بش توپلا باشلاییب. هر بیرینجی سی اوچ توپون دوکانلارینجا 6 توپونجا توپدور. 5 + 6 = 11.",
+    "answer": "جاواب 11 دیر."
+  },
+  "ceb": {
+    "instruction": "Ikaw usa ka asistent sa matematika.",
+    "question": "Si Roger adunay 5 ka tennis ball. Siya mopalit og 2 ka lata sa tennis ball. Ang matag lata adunay 3 ka tennis ball. Pila ka tennis ball ang iyang naa karon?",
+    "steps": "Si Roger nagsugod sa 5 ka bola. 2 ka lata sa 3 ka bola sa tennis ang matag usa 6 ka bola sa tennis. 5 + 6 = 11.",
+    "answer": "Ang tubag mao ang 11."
+  },
+  "ckb": {
+    "instruction": "تۆ یاریدەدەری بیرکاریییت، وەڵامێکی کۆتایی و بیرکردنەوە لە فۆرمەی خوارەوە بدە.",
+    "question": "ڕۆجر پێنج تۆپی تێنس هەیە، دوو قەڵای تری تێنس دەکڕێت، هەر قەڵایەک سێ قەڵای تێنس هەیە، ئێستا چەند قەڵای تێنس هەیە؟",
+    "steps": "ڕۆجر بە پێنج تۆپ دەستیپێکرد. دوو کانتین سێ تۆپی تێنس هەریەکە شەش تۆپی تێنسە. پێنج + شەش = ١١.",
+    "answer": "وەڵامەکە ١١ە."
+  },
+  "ilo": {
+    "instruction": "Maipapan iti daytoy, mabalinmo ti mangibilang iti sungbatmo iti sumaganad a formato.",
+    "question": "Adda lima a bola ti tennis ni Roger. Gumatang iti dua pay a lata a tennis ball. Adda tallo a bola ti tennis iti kada lata. Mano ti tennis ballna ita?",
+    "steps": "Nangrugi ni Roger iti 5 a bola. 2 a lata ti 3 a bola ti tennis ket 6 a bola ti tennis. 5 + 6 = 11.",
+    "answer": "Ti sungbat ket 11."
+  },
+  "lmo": {
+    "instruction": "Te gh'è un assistent matemàtich.",
+    "question": "Roger a gh'ha 5 palle de tennis. El compra 2 can de palle de tennis in più. Ogn can ha 3 palle de tennis. Quante palle de tennis el gh'ha adesso?",
+    "steps": "Roger l'ha scumincià cun 5 palle. 2 can de 3 palle de tennis, ognuna de 6 palle de tennis. 5 + 6 = 11.",
+    "answer": "La risposta l'è 11."
+  },
+  "mai": {
+    "instruction": "अहाँ गणितक सहायक छी, तेँ अहाँ निम्न प्रारूपमे तर्क आ अन्तिम उत्तर दिअ।",
+    "question": "रोजरक पाँचटा टेनिस बॉल अछि। ओ दूटा टेनिस बॉलक दोसर डिब्बा खरीदैत अछि। प्रत्येक डिब्बामे तीनटा टेनिस बॉल अछि। आब हुनका कतेटा टेनिस बॉल अछि?",
+    "steps": "रोजर ५ गोलासँ शुरू केलनि. २ डिब्बा ३ टेनिस बॉल सँ प्रत्येक ६ टेनिस बॉल अछि. ५ + ६ = ११।",
+    "answer": "उत्तर अछि - ११ ।"
+  },
+  "min": {
+    "instruction": "Awak adolah asisten matematika. Sangaiklah alasan jo jawaban akhir dalam format di bawah ko.",
+    "question": "Roger punyo limo bola tenis. Inyo mambali duo kaleng bola tenis lai. Tiap kaleng punyo tigo bola tenis. Baa banyak bola tenis nan inyo punyo kini?",
+    "steps": "Roger mulai jo 5 bola. 2 kaleng 3 bola tenis satiok adolah 6 bola tenis. 5 + 6 = 11.",
+    "answer": "Jawabannyo adolah 11."
+  },
+  "scn": {
+    "instruction": "Tu si 'n assistenti di matimatica.",
+    "question": "Roger hà 5 palline di tennis. Cumpri 2 canne di palline di tennis. Ogni canne hà 3 palline di tennis. Quante palline di tennis hà avà?",
+    "steps": "Roger hà cuminciatu cù 5 palline. 2 lata di 3 palline di tennis sò 6 palline di tennis ognunu. 5 + 6 = 11.",
+    "answer": "La rispunsa è 11."
+  },
+  "vec": {
+    "instruction": "Se te xe un assistente matematico, dà ragionamento e risposta definitiva nel formato de soto.",
+    "question": "Roger ga 5 palle de tennis. El compra altre 2 latas de palle de tennis. Ogni lata ga 3 palle de tennis. Quante palle de tennis el ga adesso?",
+    "steps": "Roger ga scominsià co 5 bale. 2 latasse de 3 bale de tenis xe 6 bale de tenis. 5 + 6 = 11.",
+    "answer": "La risposta xe 11."
+  },
+  "war": {
+    "instruction": "Ikaw usa nga asistent ha matematika.",
+    "question": "May-ada 5 nga tennis ball hi Roger. Nagpalit hiya hin 2 pa nga lata hin tennis ball. May-ada 3 nga tennis ball an kada lata. Pira na an iya tennis ball yana?",
+    "steps": "Nagtikang hi Roger hin 5 nga mga bola. 2 nga lata hin 3 nga mga bola hin tennis an tagsatagsa amo an 6 nga mga bola hin tennis. 5 + 6 = 11.",
+    "answer": "An baton amo 11."
+  },
+  "yue": {
+    "instruction": "你係數學助理 你會用下面嘅格式 推理同最終答案",
+    "question": "羅杰有五個網球 佢買咗另外兩網球 每個都有三個網球 现在佢有幾多個網球?",
+    "steps": "Roger 開始用五個球 2個3個網球 每個係6個網球 5+6=11.",
+    "answer": "答案係11"
+  },
+  "af": {
+    "instruction": "Jy is 'n wiskunde-assistent. Gee redenasie en finale antwoord in die onderstaande formaat.",
+    "question": "Roger het 5 tennisballe. Hy koop nog 2 blikkies tennisballe. Elke blikkie het 3 tennisballe. Hoeveel tennisballe het hy nou?",
+    "steps": "Roger het met 5 balle begin. 2 blikkies van 3 tennisballe is elk 6 tennisballe. 5 + 6 = 11.",
+    "answer": "Die antwoord is 11."
+  },
+  "am": {
+    "instruction": "አንተ የሂሳብ ረዳት ነህ፤ ከዚህ በታች ባለው ቅርጸት ላይ ማመዛዘንና የመጨረሻ መልስ መስጠት ትችላለህ።",
+    "question": "ሮጀር 5 የቴኒስ ኳሶች አሉት. እሱ ሁለት ተጨማሪ የቴኒስ ኳሶች ይገዛል. እያንዳንዱ ድስት 3 የቴኒስ ኳሶች አሉት. አሁን ስንት የቴኒስ ኳሶች አሉት?",
+    "steps": "ሮጀር ከ 5 ኳሶች ጋር ጀመረ. 2 ሳንቆች 3 የቴኒስ ኳሶች እያንዳንዱ 6 የቴኒስ ኳሶች ናቸው. 5 + 6 = 11.",
+    "answer": "መልሱ 11 ነው።"
+  },
+  "as": {
+    "instruction": "আপুনি গণিতৰ সহায়ক। তলত দিয়া ফৰ্মেটত যুক্তি আৰু চূড়ান্ত উত্তৰ দিয়ক।",
+    "question": "ৰ'জাৰে পাঁচটা টেনিছ বল আছে, তেওঁ আন দুটা টেনিছ বল কিনিব পাৰে, প্ৰতিখন টেনিছ বলত তিনিটা টেনিছ বল আছে। এতিয়া তেওঁৰ কিমানটা টেনিছ বল আছে?",
+    "steps": "ৰ'জাৰ আৰম্ভণি ৫টা বলৰ সৈতে হৈছিল। ৩টা টেনিছ বলৰ ২টা বন্তি প্ৰতিখন খেলুৱৈৰ বাবে ৬টা টেনিছ বলৰ সমান। ৫ + ৬ = ১১।",
+    "answer": "উত্তৰটো হৈছে ১১।"
+  },
+  "ba": {
+    "instruction": "Һеҙ математика буйынса ярҙамсы, түбәндәге форматта фекерләү һәм һуңғы яуап бирегеҙ.",
+    "question": "Роджерҙың биш теннис туптары бар. Ул тағы ике банка теннис туптары һатып ала. Һәр банканың өс теннис туптары бар. Хәҙер уның нисә теннис туптары бар?",
+    "steps": "Роджер 5 туп менән башлаған. 2 банканан 3 теннис туптары һәр береһе 6 теннис туптары. 5 + 6 = 11.",
+    "answer": "Яуап - 11."
+  },
+  "be": {
+    "instruction": "Вы матэматычны асістэнт.",
+    "question": "У Роджэра пяць тэнісных шароў. Ён купляе яшчэ два балы тэнісных шароў. У кожнай балі ёсць тры тэнісныя шары. Колькі ён мае цяпер?",
+    "steps": "Роджэр пачаў з 5 шаўкоў. 2 канцы з 3 тэніснымі шаўкамі кожная складае 6 тэнісных шаўкоў. 5 + 6 = 11.",
+    "answer": "Адказ - 11."
+  },
+  "bn": {
+    "instruction": "আপনি গণিতের সহকারী, নিচের ফরম্যাটে যুক্তি ও চূড়ান্ত উত্তর দিন।",
+    "question": "রজারের পাঁচটি টেনিস বল আছে, সে আরও দুইটা ক্যান কিনছে, প্রত্যেকটা ক্যানের তিনটা আছে, এখন তার কতগুলো আছে?",
+    "steps": "রজার শুরু করেছিলেন ৫টি বল দিয়ে। ২টি ক্যান ৩টি টেনিস বলের প্রত্যেকটি ৬টি টেনিস বলের সমান। ৫+৬=১১।",
+    "answer": "উত্তর ১১।"
+  },
+  "bo": {
+    "instruction": "ཁྱེད་ནི་རྩིས་རིག་གི་རོགས་པ་ཡིན། འོག་གི་ཡིག་གཟུགས་ནང་དོན་དང་མཐའ་མའི་ལན་འདེབས་གནང་དགོས།",
+    "question": "Roger ཚོར་ tennis ball ལྔ་ཡོད། ཁོ་ཚོས་ tennis ball ལྷག་མ་གཉིས་ཉོས་ཡོད། དེ་རེ་ནང་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis ball ལྔ་ཡོད། ཁོ་ལ་ tennis",
+    "steps": "Roger གིས་རྩེད་འགོ་འཛུགས་གནང་ཡོད། གླང་ལྔ་ཡོད། གླང་གསུམ་གྱི་གཞོང་པ་གཉིས་རེ་ནི་ གླང་དྲུག་ཡིན། 5 + 6 = 11.",
+    "answer": "དེའི་ལན་ནི་ ༡༡ ཡིན་པ་"
+  },
+  "bs": {
+    "instruction": "Vi ste pomoćnik matematike, dajte razloge i konačni odgovor u niže navedenom formatu.",
+    "question": "Roger ima pet teniska loptica, kupuje još dvije konzerve teniska loptica, svaka konzerva ima tri teniska loptice.",
+    "steps": "Roger je počeo sa pet loptica. 2 konzerve od 3 teniska loptica svaka je 6 teniska loptica. 5 + 6 = 11.",
+    "answer": "Odgovor je 11."
+  },
+  "bg": {
+    "instruction": "Вие сте асистент по математика, дайте разсъждения и окончателен отговор в формата по-долу.",
+    "question": "Роджър има 5 топки за тенис, купува още 2 кутии, всяка кутия има 3 топки.",
+    "steps": "Роджър започна с 5 топки. 2 кутии от 3 тенис топки, всяка от които е 6 тенис топки. 5 + 6 = 11.",
+    "answer": "Отговорът е 11."
+  },
+  "ca": {
+    "instruction": "És un assistent matemàtic. Donar raons i resposta final en el format de sota.",
+    "question": "Roger té 5 boles de tennis. Compra dues pistes més de plomes de tennis. Cada lata té 3 plomes de tennis. Quantes plomes té ara?",
+    "steps": "Roger va començar amb 5 boles. 2 latas de 3 boles de tennis són 6 boles de tennis cadascuna. 5 + 6 = 11.",
+    "answer": "La resposta és 11."
+  },
+  "cs": {
+    "instruction": "Jste asistentka matematiky, dávejte závěrečné odpovědi a rozumu v níže uvedeném formátu.",
+    "question": "Roger má pět tenisových míčků, koupí si další dvě plechovky, každá plechovka má tři. Kolik má teď?",
+    "steps": "Roger začal s pěti míči. 2 plechovky třemi tenisovými míči jsou po šesti. 5 + 6 = 11.",
+    "answer": "Odpověď je 11."
+  },
+  "cy": {
+    "instruction": "Rydych yn gymorth math. Rhowch rheswm a ateb terfynol yn y fformat isod.",
+    "question": "Mae gan Roger 5 pêl tennis. Mae'n prynu 2 can o pêl tennis arall. Mae pob can wedi 3 pêl tennis. Pa nifer o pêl tennis sydd ganddo nawr?",
+    "steps": "Dechreuodd Roger gyda 5 pêl. 2 can o 3 pêl tennis bob un yn 6 pêl tennis. 5 + 6 = 11.",
+    "answer": "Y ateb yw 11."
+  },
+  "da": {
+    "instruction": "Du er assistent i matematik, så giv et svar i det nederste format.",
+    "question": "Roger har fem tennisbolde, han køber to kaner til, hver kan har tre tennisbolde, hvor mange tennisbolde har han nu?",
+    "steps": "Roger startede med 5 bolde. 2 bur med 3 tennisbolde er hver 6 tennisbolde. 5 + 6 = 11.",
+    "answer": "Svaret er 11."
+  },
+  "de": {
+    "instruction": "Sie sind Mathematikassistentin, geben Sie den folgenden Format zum Schlussfolgerung und zur Schlussfolgerung.",
+    "question": "Roger hat 5 Tennisbälle, er kauft 2 Dosen Tennisbälle, jede Dosen hat 3 Tennisbälle. Wie viele Tennisbälle hat er jetzt?",
+    "steps": "Roger begann mit 5 Kugeln. 2 Dosen von 3 Tennisbälle sind jeweils 6 Tennisbälle. 5 + 6 = 11.",
+    "answer": "Die Antwort ist 11."
+  },
+  "el": {
+    "instruction": "Είστε βοηθός μαθηματικών. Δώστε λογική και τελική απάντηση στην παρακάτω μορφή.",
+    "question": "Ο Ρότζερ έχει 5 μπάλες τένις, αγοράζει 2 κουτιά ακόμα, κάθε κουτί έχει 3 μπάλες τένις. Πόσες έχει τώρα;",
+    "steps": "Ο Ρότζερ ξεκίνησε με 5 μπάλες. 2 κουτιά με 3 μπάλες τένις είναι 6 μπάλες τένις. 5 + 6 = 11.",
+    "answer": "Η απάντηση είναι 11."
+  },
+  "eo": {
+    "instruction": "Vi estas matematika asistanto. Donu rezonadon kaj la finan respondon en la malsupra formato.",
+    "question": "Roger havas 5 tenisajn pilkojn. Li aĉetas 2 pliajn kanonojn da tenisaj pilkoj. Ĉiu kanono havas 3 tenisajn pilkojn. Kiom da tenisaj pilkoj li havas nun?",
+    "steps": "Roger komencis per 5 pilkoj. 2 kanonoj da 3 tenisaj pilkoj ĉiu estas 6 tenisaj pilkoj. 5 + 6 = 11.",
+    "answer": "La respondo estas 11."
+  },
+  "et": {
+    "instruction": "Sa oled matemaatika assistent, anna põhjendus ja lõplik vastus allpool esitatud vormis.",
+    "question": "Rogeril on 5 tennispalli, ta ostis 2 pudelit veel, iga pudelit on 3 tennispalli.",
+    "steps": "Roger alustas 5 pallist. 2 pudelit 3 tennispalli iga on 6 tennispalli. 5 + 6 = 11.",
+    "answer": "Vastus on 11."
+  },
+  "eu": {
+    "instruction": "Matematikako laguntzailea zara, emaidazu arrazoibidea eta azken erantzuna.",
+    "question": "Rogerrek 5 tenis pilota ditu, 2 lata gehiago erosten ditu, bakoitzak 3 pilota.",
+    "steps": "Rogerrek 5 pilota zituen, 2 lata 3 tenis pilota bakoitzak 6 tenis pilota dira. 5 + 6 = 11.",
+    "answer": "Erantzuna da 11."
+  },
+  "fi": {
+    "instruction": "Olet matemaattinen apulainen, joten anna perusteluja ja lopullisia vastauksia alla olevassa muodossa.",
+    "question": "Rogerilla on viisi tenniskapua, hän ostaa kaksi laatikkoa lisää, jokaisessa laatikossa on kolme.",
+    "steps": "Roger aloitti 5 palloa, 2 laatikkoa 3 tenniskapua, joka on 6 tenniskapua. 5 + 6 = 11.",
+    "answer": "Vastaus on 11."
+  },
+  "gd": {
+    "instruction": "Tha thu na neach-taic matamaigeach. Thoir beachd agus freagairt deireannach san fharmaid gu h-ìosal.",
+    "question": "Tha 5 ball-teinis aig Roger. Tha e a 'ceannach 2 canan eile de ball-teinis. Tha 3 ball-teinis aig gach can. Cia mheud ball-teinis a th' aige a-nis?",
+    "steps": "Roger thòisich le 5 ball. 2 canan de 3 ballan tenis gach 6 ballan tenis. 5 + 6 = 11.",
+    "answer": "Is e an fhreagairt 11."
+  },
+  "ga": {
+    "instruction": "Is cuidiú matamaitic tú. Tabhair réasúnaíocht agus freagra deiridh sa fhoirméad thíos.",
+    "question": "Tá 5 peile tenis ag Roger. Cheannaíonn sé 2 canáin eile de peile tenis. Tá 3 peile tenis ag gach canáin. Cé mhéad peile tenis atá aige anois?",
+    "steps": "Thosaigh Roger le 5 peile. 2 canáin de 3 peile tenneas is 6 peile tenneas gach. 5 + 6 = 11.",
+    "answer": "Is é an freagra 11."
+  },
+  "gl": {
+    "instruction": "É un asistente de matemáticas, dá o razoamento e a resposta final no formato abaixo.",
+    "question": "Roger ten cinco bolas de tenis, compra dúas latas máis, cada unha ten tres.",
+    "steps": "Roger comezou con 5 bolas. 2 latas de 3 bolas de tenis son 6 bolas de tenis cada. 5 + 6 = 11.",
+    "answer": "A resposta é 11."
+  },
+  "gn": {
+    "instruction": "Nde hína matemática pytyvõhára, embo'e ha embohovái ko'ã kuatiarogue.",
+    "question": "Roger oguereko 5 palla de tenis. Oguerekóma 2 lata palla de tenis. Peteî lata oguereko 3 palla de tenis.",
+    "steps": "Roger oñepyrũ 5 palla ndive. 2 lata 3 palla de tenis orekóva 6 palla de tenis. 5 + 6 = 11.",
+    "answer": "Pe ñembohovái ha'e 11."
+  },
+  "gu": {
+    "instruction": "તમે ગણિત સહાયક છો. નીચે આપેલ ફોર્મેટમાં વિચારણા અને અંતિમ જવાબ આપો.",
+    "question": "રોજેર પાસે 5 ટેનિસ બોલ છે. તે બે વધુ ટેનિસ બોલ બોક્સ ખરીદે છે. દરેક બોક્સમાં 3 ટેનિસ બોલ છે. હવે તેની પાસે કેટલા ટેનિસ બોલ છે?",
+    "steps": "રોજેર 5 બોલથી શરૂ થયો. 3 ટેનિસ બોલની 2 બટનો દરેક 6 ટેનિસ બોલ છે. 5 + 6 = 11.",
+    "answer": "જવાબ 11 છે."
+  },
+  "ht": {
+    "instruction": "Ou se yon asistan matematik. Bay rezonans ak repons final nan fòma ki anba a.",
+    "question": "Roger gen 5 boul tenis. Li achte 2 lòt bwat boul tenis. Chak bwat gen 3 boul tenis. Konbyen boul tenis li gen kounye a?",
+    "steps": "Roger te kòmanse ak 5 boul. 2 bwat 3 boul tenis chak se 6 boul tenis. 5 + 6 = 11.",
+    "answer": "Repons lan se 11."
+  },
+  "he": {
+    "instruction": "אתה עוזר למתמטיקה, תתן תגיון ותשובה סופית בפורמט הבא.",
+    "question": "רוג'ר יש 5 כדורי טניס, הוא קונה עוד 2 קופסאות של כדורי טניס, לכל קופסאות יש 3 כדורי טניס. כמה כדורי טניס יש לו עכשיו?",
+    "steps": "רוג'ר החל עם 5 כדורים. 2 קופסאות של 3 כדורי טניס כל אחד הוא 6 כדורי טניס. 5 + 6 = 11.",
+    "answer": "התשובה היא 11."
+  },
+  "hr": {
+    "instruction": "Vi ste pomoćnik matematike.",
+    "question": "Roger ima pet teniska loptica, kupuje još dvije konzerve, svaka ima tri.",
+    "steps": "Roger je počeo sa pet loptica. 2 konzerve od 3 teniska loptica svaka je 6 teniska loptica. 5 + 6 = 11.",
+    "answer": "Odgovor je 11."
+  },
+  "hu": {
+    "instruction": "Ön a matematikában dolgozik, és az alábbi formátumban adja meg az utolsó választ.",
+    "question": "Rogernek 5 teniszlabda van, még 2 doboz teniszelabda van, mindegyik doboz három teniszelabda. Hány teniszelabda van most?",
+    "steps": "Roger 5 labdával kezdte. 2 doboz 3 teniszlabdával, mindegyik 6 teniszlabdával. 5 + 6 = 11.",
+    "answer": "A válasz 11!"
+  },
+  "hy": {
+    "instruction": "Դուք մաթեմատիկայի օգնական եք:",
+    "question": "Ռոջերը ունի 5 տենիսու գնդակ: Նա գնել է եւս 2 տուփ տենիսու գնդակ: Յուրաքանչյուր տուփ ունի 3 տենիսու գնդակ:",
+    "steps": "Ռոջերը սկսեց 5 գնդակով: 2 տուփ 3 տենիս գնդակի յուրաքանչյուրը 6 տենիս գնդակ է: 5 + 6 = 11.",
+    "answer": "Պատասխանը 11-ն է:"
+  },
+  "id": {
+    "instruction": "Anda adalah asisten matematika. Beri alasan dan jawaban akhir dalam format di bawah ini.",
+    "question": "Roger punya 5 bola tenis. Dia membeli 2 kaleng bola tenis lagi. Setiap kaleng memiliki 3 bola tenis. Berapa banyak bola tenis yang dia miliki sekarang?",
+    "steps": "Roger mulai dengan 5 bola. 2 kaleng 3 bola tenis masing-masing 6 bola tenis. 5 + 6 = 11.",
+    "answer": "Jawabannya adalah 11."
+  },
+  "is": {
+    "instruction": "Þú ert stærðfræðingur og gefur rökstuðning og loksvari í myndinni hér að neðan.",
+    "question": "Roger er með fimm tennisbolta, kaupir tvær tösur af tennisbolta, hver er með þrjár.",
+    "steps": "Roger byrjaði með fimm bolta. 2 blikkar af þremur tennisboltum eru hver 6 tennisboltar. 5 + 6 = 11.",
+    "answer": "Svarið er 11."
+  },
+  "it": {
+    "instruction": "Lei è un assistente di matematica, da' ragionamento e risposta finale nel formato di seguito.",
+    "question": "Roger ha 5 palline da tennis, compra altre 2 lattine di palline da tennis, ogni lattina ha 3 palline da tennis. Quante palline ha ora?",
+    "steps": "Roger ha iniziato con 5 palle. 2 lattine di 3 palle da tennis sono 6 palle da tennis. 5 + 6 = 11.",
+    "answer": "La risposta è 11."
+  },
+  "jv": {
+    "instruction": "Kowé dadi asisten matématika. Carané mènèhi alesan lan jawaban sing pungkasan ing format ing ngisor iki.",
+    "question": "Roger nduwé lima bal tenis. Dheweke tuku loro kaleng bal tenis liyane. Saben kaleng nduwé telu bal tenis. Pira bal tenis sing saiki?",
+    "steps": "Roger miwiti karo 5 bal. 2 kaleng 3 bal tenis saben 6 bal tenis. 5 + 6 = 11.",
+    "answer": "Wangsulané yaiku 11."
+  },
+  "ja": {
+    "instruction": "解答は下記形式でください",
+    "question": "ロジャーには5つのテニスボールがある.彼は2つの缶のテニスボールを買い取ります.各缶には3つのテニスボールがあります.彼は今どれくらいのテニスボールを持っているか.",
+    "steps": "5つのボールからスタートしました 2缶の3つのボールがそれぞれ6つのボールです 5 + 6 = 11",
+    "answer": "11番の答えです"
+  },
+  "kn": {
+    "instruction": "ನೀವು ಗಣಿತ ಸಹಾಯಕರಾಗಿದ್ದೀರಿ. ಕೆಳಗಿನ ಸ್ವರೂಪದಲ್ಲಿ ತರ್ಕ ಮತ್ತು ಅಂತಿಮ ಉತ್ತರವನ್ನು ನೀಡಿ.",
+    "question": "ರೋಜರ್ಗೆ ಐದು ಟೆನ್ನಿಸ್ ಚೆಂಡುಗಳು ಇವೆ. ಅವನು ಇನ್ನೂ ಎರಡು ಬಾಕ್ಸ್ ಟೆನ್ನಿಸ್ ಚೆಂಡುಗಳನ್ನು ಖರೀದಿಸುತ್ತಾನೆ. ಪ್ರತಿ ಬಾಕ್ಸ್ಗೆ ಮೂರು ಟೆನ್ನಿಸ್ ಚೆಂಡುಗಳು ಇವೆ. ಈಗ ಎಷ್ಟು ಟೆನ್ನಿಸ್ ಚೆಂಡುಗಳು ಅವನಿಗೆ ಇವೆ?",
+    "steps": "ರೋಜರ್ 5 ಚೆಂಡುಗಳಿಂದ ಪ್ರಾರಂಭಿಸಿದರು. 3 ಟೆನ್ನಿಸ್ ಚೆಂಡುಗಳ 2 ಬಾಕ್ಸ್ಗಳು ಪ್ರತಿ 6 ಟೆನ್ನಿಸ್ ಚೆಂಡುಗಳಾಗಿವೆ. 5 + 6 = 11.",
+    "answer": "ಉತ್ತರ 11 ಆಗಿದೆ."
+  },
+  "ka": {
+    "instruction": "თქვენ ხართ მათემატიკის ასისტენტი. მიეცით აზროვნება და საბოლოო პასუხი ქვემოთ მოცემულ ფორმატში.",
+    "question": "როგერს 5 ტენისის ბურთი აქვს. ის ყიდულობს 2 ტანს ტენისის ბურთს. თითოეულ ტანში 3 ტენისის ბურთი. რამდენი ტენისის ბურთი აქვს ახლა?",
+    "steps": "როგერმა დაიწყო 5 ბურთით. 2 ტანს 3 ტენის ბურთით თითოეული 6 ტენის ბურთით არის. 5 + 6 = 11.",
+    "answer": "პასუხი არის 11."
+  },
+  "kk": {
+    "instruction": "Сіз математика көмекшісісіз. Төмендегі форматта дәлел және соңғы жауап беріңіз.",
+    "question": "Роджердің 5 теннис топтары бар. Ол тағы 2 банка теннис топтарын сатып алады. Әр банкада 3 теннис топтары бар. Қазір оның қанша теннис топтары бар?",
+    "steps": "Роджер 5 топпен бастады. 2 банка 3 теннис топтары әрқайсысы 6 теннис топтары. 5 + 6 = 11.",
+    "answer": "Жауап - 11."
+  },
+  "km": {
+    "instruction": "អ្នក ជា ជំនួយការ គណិតវិទ្យា សូម ផ្តល់ ការ លើក ឡើង និង ឆ្លើយ តប ជា ចុង ក្រោយ តាម រូបភាព ខាង ក្រោម នេះ។",
+    "question": "Roger មាន 5 ក្បាល tennis គាត់ទិញ 2 កញ្ចប់ tennis Balls ទៀត។ កញ្ចប់មួយ កញ្ចប់ មាន 3 ក្បាល tennis Balls គាត់មាន ក្បាល tennis ប៉ុន្មាន ឥឡូវនេះ?",
+    "steps": "Roger បានចាប់ផ្តើមជាមួយ 5 ក្បាល 2 កញ្ចប់នៃ 3 ក្បាល tennis ជា 6 ក្បាល tennis 5 + 6 = 11.",
+    "answer": "ការឆ្លើយតបគឺ 11 ។"
+  },
+  "ky": {
+    "instruction": "Математика боюнча жардамчы болсоң, төмөндөгү форматта ой жүгүртүп, акыркы жооп бер.",
+    "question": "Роджердин 5 теннис топтору бар. Ал дагы 2 банка теннис топтору сатып алат. Ар бир банкада 3 теннис топтору бар. Азыр канча теннис топтору бар?",
+    "steps": "Роджер 5 топ менен баштады. 2 банка 3 теннис топко ар бири 6 теннис топко тете. 5 + 6 = 11.",
+    "answer": "Жооп - 11."
+  },
+  "lo": {
+    "instruction": "ທ່ານ ເປັນ ຜູ້ ຊ່ວຍ ດ້ານ ຄະນິດສາດ ໃຫ້ ຄໍາ ຕອບ ແລະ ຄໍາ ຄິດ ເຫັນ ໃນ ຮູບ ແບບ ທີ່ ຂ້າງ ລຸ່ມ ນີ້.",
+    "question": "Roger ມີບານເຕະເທີນ 5 ບານ. ລາວຊື້ 2 ຖັງຂອງບານເຕະເທີນເພີ່ມເຕີມ. ແຕ່ລະຖັງມີ 3 ຖົງ. ລາວມີບານເຕະເທີນຫຼາຍປານໃດໃນປັດຈຸບັນ?",
+    "steps": "Roger ເລີ່ມຕົ້ນດ້ວຍ 5 ບານ 2 ຖັງຂອງ 3 ບານເທີນແຕ່ລະແມ່ນ 6 ບານເທີນ 5 + 6 = 11.",
+    "answer": "ຄໍາ ຕອບແມ່ນ 11."
+  },
+  "li": {
+    "instruction": "Je bent 'n wiskunde assistent. Geve redenering en einmaol antwoorden in 't hiel vaagformaat.",
+    "question": "Roger haet 5 tennisballe. Hae koopt nog 2 blikjes tennisballe. Iedere blikje haet 3 tennisballe. Hoeveel tennisballe haet hae noe?",
+    "steps": "Roger begós mèt 5 balle. 2 blikjes van 3 tennisballe is elk 6 tennisballe. 5 + 6 = 11.",
+    "answer": "De antwoar is 11."
+  },
+  "lt": {
+    "instruction": "Jūs esate matematikos asistentas.",
+    "question": "R. Roger'as turi 5 teniso kamuolius. Jis nusipirko 2 daugiau teniso kamuolių dėžutės. Kiek teniso kamuolių jis dabar turi?",
+    "steps": "Roger'as pradėjo nuo penkių kamuolių. 2 dėžutės po trijų kamuolių yra po 6 kamuolių. 5 + 6 = 11.",
+    "answer": "Atsakymas - 11."
+  },
+  "lb": {
+    "instruction": "Dir sidd e Matheassistent. Gitt Argumentatioun an déi lescht Äntwert am Format hei ënnen.",
+    "question": "Roger huet 5 Tennisballen. Hien kaaft 2 méi Dosen Tennisballen. All Dosen huet 3 Tennisballen. Wéi vill Tennisballen huet hien elo?",
+    "steps": "Roger huet mat 5 Ballen ugefaang. 2 Dosen vun 3 Tennisballen sinn all 6 Tennisballen. 5 + 6 = 11.",
+    "answer": "D'Äntwert ass 11."
+  },
+  "ml": {
+    "instruction": "നിങ്ങള് ഒരു ഗണിത അസിസ്റ്റന്റ് ആണ്. താഴെ പറയുന്ന ഫോർമാറ്റിൽ യുക്തിയും അവസാന ഉത്തരവും നല് കുക.",
+    "question": "റോജറിന് 5 ടെന്നീസ് പന്ത് ഉണ്ട്. അവന് 2 പെട്ടി കൂടി വാങ്ങുന്നു. ഓരോ പെട്ടിയിലും 3 ടെന്നീസ് പന്ത് ഉണ്ട്. അവന് എത്ര ടെന്നീസ് പന്ത് ഉണ്ട്?",
+    "steps": "റോജർ തുടങ്ങിയത് 5 പന്ത് കൊണ്ട്. 2 കട്ടികളില് 3 ടെന്നീസ് പന്ത് ഓരോന്നിനും 6 ടെന്നീസ് പന്ത്. 5 + 6 = 11.",
+    "answer": "ഉത്തരം 11 ആണ്."
+  },
+  "mr": {
+    "instruction": "तुम्ही गणित सहाय्यक आहात. खालील स्वरूपात तर्क आणि अंतिम उत्तर द्या.",
+    "question": "रोजरकडे पाच टेनिस बॉल आहेत. तो आणखी दोन कॅन टेनिस बॉल खरेदी करतो. प्रत्येक कॅनमध्ये तीन टेनिस बॉल आहेत. आता त्याच्याकडे किती टेनिस बॉल आहेत?",
+    "steps": "रोजरने 5 बॉलसह सुरुवात केली. 3 टेनिस बॉलच्या 2 कॅन प्रत्येक 6 टेनिस बॉल आहेत. 5 + 6 = 11.",
+    "answer": "उत्तर ११ आहे."
+  },
+  "mk": {
+    "instruction": "Дајте ги аргументите и завршниот одговор во следниот формат.",
+    "question": "Роџер има 5 тенис топки, купува уште 2 конзерви на тенис топки, секоја конзерва има 3 тенис топки. Колку тенис топки има сега?",
+    "steps": "Роџер започна со 5 топки. 2 конзерви со 3 тенис топки, секоја е 6 тенис топки. 5 + 6 = 11.",
+    "answer": "Одговорот е 11."
+  },
+  "mt": {
+    "instruction": "Int assistent tal-matematika. Irriġuna u tagħti tweġiba finali fil-format ta' hawn taħt.",
+    "question": "Roger għandu 5 biljetti tal-tennis. Huwa jixtru 2 qtugħin oħra tal-bbliet tal-tennis. Kull qtugħ għandu 3 biljetti tal-tennis. Kemm għandu issa?",
+    "steps": "Roger beda b'5 ballun. 2 qtugħ ta' 3 ballun tat-tennis kull wieħed huwa 6 ballun tat-tennis. 5 + 6 = 11.",
+    "answer": "It- tweġiba hi 11."
+  },
+  "my": {
+    "instruction": "သင်ဟာ သင်္ချာအကူပါ၊ အောက်က ပုံစံမှာ ဆင်ခြင်တုံတရားနဲ့ နောက်ဆုံး အဖြေကို ပေးပါ။",
+    "question": "Roger မှာ tennis ball ငါးလုံးရှိတယ် သူက tennis ball နှစ်ဘူး ထပ်ဝယ်တယ် တစ်ဘူးစီမှာ tennis ball သုံးလုံးရှိတယ် အခု tennis ball ဘယ်နှစ်လုံးရှိလဲ။",
+    "steps": "Roger က ဘောလုံး ၅ လုံးနဲ့ စခဲ့တယ်။ ဘောလုံး ၃ လုံးစီရဲ့ ၂ ကန်က ဘောလုံး ၆ လုံးပါ။ ၅ + ၆ = ၁၁ လုံး။",
+    "answer": "အဖြေက ၁၁ ပါ။"
+  },
+  "nl": {
+    "instruction": "Je bent een wiskundige assistent. Geef redenering en eindrespons in het onderstaande formaat.",
+    "question": "Roger heeft 5 tennisballen, koopt nog 2 blikjes tennisbalen, elk blikje heeft 3 tennisbalen. Hoeveel tennisbalen heeft hij nu?",
+    "steps": "Roger begon met 5 ballen. 2 blikjes van 3 tennisbalen is elk 6 tennisbalen. 5 + 6 = 11.",
+    "answer": "Het antwoord is 11."
+  },
+  "nn": {
+    "instruction": "Du er ein matteassistent. Gi redegjøringar og sluttsvar i det nedanfor teikna formatet.",
+    "question": "Roger har fem tennisballar. Han kjøper to til tenniskoller. Ein kan har tre tennisballar. Kor mange tennisballar har han no?",
+    "steps": "Roger starta med 5 ballar. To burkar med 3 tennisballar er 6 tennisballar kvar. 5 + 6 = 11.",
+    "answer": "Svaret er 11."
+  },
+  "oc": {
+    "instruction": "Es un assistent de matematicas. Donatz de rasonament e de responsa finala dins lo format jos.",
+    "question": "Roger a cinc pelons de tennis. Compra dos balons de tennis. Cada balon a tres pelons de tennis. Quantas pelons de tennis a ara?",
+    "steps": "Roger comencèt amb 5 balhas. 2 lata de 3 balhas de tennis cada una es de 6 balhas de tennis. 5 + 6 = 11.",
+    "answer": "La responsa es 11."
+  },
+  "pa": {
+    "instruction": "ਤੁਸੀਂ ਇੱਕ ਗਣਿਤ ਸਹਾਇਕ ਹੋ। ਹੇਠਾਂ ਦਿੱਤੇ ਫਾਰਮੈਟ ਵਿੱਚ ਵਿਚਾਰ ਅਤੇ ਅੰਤਮ ਜਵਾਬ ਦਿਓ।",
+    "question": "ਰਾਜੇਰ ਕੋਲ 5 ਟੈਨਿਸ ਗੇਂਦਾਂ ਹਨ. ਉਹ 2 ਹੋਰ ਟੈਨਿਸ ਗੇਂਦਾਂ ਦੀ ਡੱਬੇ ਖਰੀਦਦਾ ਹੈ. ਹਰੇਕ ਡੱਬੇ ਵਿੱਚ 3 ਟੈਨਿਸ ਗੇਂਦਾਂ ਹਨ. ਉਸ ਕੋਲ ਹੁਣ ਕਿੰਨੀਆਂ ਟੈਨਿਸ ਗੇਂਦਾਂ ਹਨ?",
+    "steps": "ਰੋਜਰ ਨੇ 5 ਗੇਂਦਾਂ ਨਾਲ ਸ਼ੁਰੂਆਤ ਕੀਤੀ। 3 ਟੈਨਿਸ ਗੇਂਦਾਂ ਦੀਆਂ 2 ਡੱਬੀਆਂ ਹਰ ਇੱਕ 6 ਟੈਨਿਸ ਗੇਂਦਾਂ ਹਨ। 5 + 6 = 11.",
+    "answer": "ਜਵਾਬ 11 ਹੈ।"
+  },
+  "pl": {
+    "instruction": "Jesteś asystentem matematycznym.",
+    "question": "Roger ma 5 piłek tenisowych, kupuje 2 puszki piłek tenisowych, każdy puszek ma 3 piłki tenisowe.",
+    "steps": "Roger zaczął od 5 piłek. 2 puszki z 3 piłkami tenisowymi to 6 piłek tenisowych. 5 + 6 = 11.",
+    "answer": "Odpowiedź brzmi 11."
+  },
+  "pt": {
+    "instruction": "Você é assistente de matemática, dê o raciocínio e a resposta final no formato abaixo.",
+    "question": "Roger tem 5 bolas de tênis, compra mais 2 latas de bolas de tênis, cada lata tem 3 bolas de tênis. Quantas bolas de tênis tem agora?",
+    "steps": "Roger começou com 5 bolas. 2 latas de 3 bolas de tênis são 6 bolas de tênis cada. 5 + 6 = 11.",
+    "answer": "A resposta é 11."
+  },
+  "ro": {
+    "instruction": "Eşti asistent la matematică, dă-mi un răspuns final în formatul de mai jos.",
+    "question": "Roger are 5 bile de tenis. Cumpără încă 2 cutii de bile de tenis. Fiecare cu 3 cutii de tenis. Câte cutii de tenis are acum?",
+    "steps": "Roger a început cu 5 bile. 2 cutii de 3 bile de tenis sunt 6 bile de tenis fiecare. 5 + 6 = 11.",
+    "answer": "Răspunsul este 11."
+  },
+  "ru": {
+    "instruction": "Вы помощник математики, дайте аргументы и окончательный ответ в нижеприведенном формате.",
+    "question": "У Роджера 5 теннисных мячей, он покупает еще 2 банки теннисных мячей, в каждой банки 3 теннисные мячи. Сколько у него теперь теннисных мячей?",
+    "steps": "Роджер начал с 5 мячей. 2 банки 3 теннисных мячей, каждый из которых 6 теннисных мячей. 5 + 6 = 11.",
+    "answer": "Ответ - 11."
+  },
+  "sa": {
+    "instruction": "भवद्भिः गणितस्य सहायकः, अतः अधोलिखितेषु सूत्रेषु तर्कं च अन्तिमं उत्तरं ददाति।",
+    "question": "रजाराः पञ्च टेनिसबालानि सन्ति। सः तानि च द्विविधानि विक्रयन्ति। प्रत्येकं त्रयोदश गोलं भवति। इदानीं तस्य कति गोलं अस्ति?",
+    "steps": "आरम्भः पञ्च गोलं भवति, पञ्च गोलं भवति, पञ्च गोलं भवति, षट् गोलं भवति।",
+    "answer": "उत्तरम् ११ ।"
+  },
+  "si": {
+    "instruction": "ඔයා ගණිත උපදේශකයෙක්. පහත දැක්වෙන ආකෘතියෙන් සාකච්ඡා කරන්න.",
+    "question": "රොජර් ටෙනිස් බෝල 5ක් තියෙනවා. එයා ටෙනිස් බෝල තව කෑන් 2ක් ගන්නවා. එක කෑන් එකකට ටෙනිස් බෝල 3ක් තියෙනවා. දැන් එයාට ටෙනිස් බෝල කීයක් තියෙනවාද?",
+    "steps": "රොජර් පටන් ගත්තේ බෝල 5ක් එක්ක. ටෙනිස් බෝල 3ක් තියෙන බඳුන 2ක් එකකට ටෙනිස් බෝල 6ක් වෙනවා. 5 + 6 = 11.",
+    "answer": "පිළිතුර 11යි."
+  },
+  "sk": {
+    "instruction": "Vy ste asistentka matematiky, takže dáte konečné odpovede v nižšie uvedenom formáte.",
+    "question": "Roger má 5 tenisových loptičiek, kupuje si ďalšie 2 plechovky tenisových loptičiek, každá plechovka má 3 tenisové loptičky.",
+    "steps": "Roger začal s piatimi loptičkami. 2 plechovky s 3 tenisovými loptičkami sú 6 tenisových loptičiek. 5 + 6 = 11.",
+    "answer": "Odpoveď je 11."
+  },
+  "sl": {
+    "instruction": "Vi ste pomočnik v matematiki.",
+    "question": "Roger ima pet tenisnih žogic, kupi še dve konzervi, vsaka ima tri.",
+    "steps": "Roger je začel s petimi žogi. 2 konzerve s tremi žogi za tenis so po šestih. 5 + 6 = 11.",
+    "answer": "Odgovor je 11."
+  },
+  "sd": {
+    "instruction": "توهان رياضيات جي اسسٽنٽ آهيو. هيٺ ڏنل فارميٽ ۾ دليل ۽ حتمي جواب ڏيو.",
+    "question": "راجر وٽ 5 ٽينس بال آهن. هن وڌيڪ 2 ٽينس بال خريد ڪيا. هر هڪ ٽينس بال آهي. هن وٽ هاڻي ڪيتريون ئي ٽينس بال آهن؟",
+    "steps": "راجر 5 بالن سان شروع ڪيو. 3 ٽينس بالن جي 2 ڊبليو هر هڪ 6 ٽينس بالن جي برابر آهي. 5 + 6 = 11.",
+    "answer": "جواب 11 آهي."
+  },
+  "so": {
+    "instruction": "Waxaad tahay kaaliyaha xisaabta, waxaad ku siinaysaa jawaab iyo sabab dambe qaabka hoose.",
+    "question": "Roger wuxuu leeyahay shan kubadood oo tennis ah. wuxuu iibsadaa 2 qasac oo kubadood oo tennis ah. qasac kasta wuxuu leeyahay 3 kubadood oo tennis ah. Imisa kubadood oo tennis ah ayuu hadda leeyahay?",
+    "steps": "Roger wuxuu bilaabay 5 kubadood. 2 dhalo oo 3 kubadood oo tennis ah mid kasta waa 6 kubadood oo tennis ah. 5 + 6 = 11.",
+    "answer": "Jawaabta waa 11."
+  },
+  "sc": {
+    "instruction": "Tue ses un'assistente de matemàtica. Dat resones e risposta definitiva in su formadu chi b'est a suta.",
+    "question": "Roger tenet 5 balles de tenisi. Compra àteras 2 latas de balles de tenisi. Ogni latera tenet 3 balles de tenisi. Comente balles de tenisi tenet issa?",
+    "steps": "Roger at comintzadu cun 5 balles. 2 latas de 3 ballas de tenisi sunt 6 ballas de tenisi. 5 + 6 = 11.",
+    "answer": "Sa risposta est 11."
+  },
+  "sr": {
+    "instruction": "Дајте разговоре и коначни одговор у ниже наведеном формати.",
+    "question": "Роџер има 5 теннисских топка, купи још 2 конзерве теннисских топка, свака конзерва има 3 теннисске топке.",
+    "steps": "Роџер је почео са 5 топка. 2 конзерве од 3 теннисских топка, сваке 6 теннисских топка. 5 + 6 = 11.",
+    "answer": "Одговор је 11."
+  },
+  "su": {
+    "instruction": "Anjeun asisten matematika. Nyadiakeun alesan jeung jawaban ahir dina format di handap.",
+    "question": "Roger boga lima bola ténis. manéhna meuli dua kaléng bola ténis. Unggal kaléng boga tilu bola ténis. Sabaraha bola ténis manéhna boga ayeuna?",
+    "steps": "Roger dimimitian ku 5 bal. 2 kaléng 3 bal tenis unggal nyaéta 6 bal tenis. 5 + 6 = 11.",
+    "answer": "Jawabanana nyaéta 11."
+  },
+  "sv": {
+    "instruction": "Du är en matematikassistent, och du kan ta slutsatsen i nedanstående format.",
+    "question": "Roger har fem tennisbollar, köper två tennisbollskåp, har tre tennisboll i varje.",
+    "steps": "Roger började med fem bollar. 2 burkar med tre tennisbollar är 6 tennisbollar. 5 + 6 = 11.",
+    "answer": "Svaret är 11."
+  },
+  "ta": {
+    "instruction": "நீங்கள் ஒரு கணித உதவியாளர். கீழே உள்ள வடிவத்தில் பகுத்தறிவு மற்றும் இறுதி பதிலை வழங்கவும்.",
+    "question": "ரோஜர் ஐந்து டென்னிஸ் பந்துகளைக் கொண்டுள்ளார். அவர் இன்னும் இரண்டு பந்துகளை வாங்குகிறார். ஒவ்வொரு பந்திலும் மூன்று டென்னிஸ் பந்துகள் உள்ளன. இப்போது அவர் எத்தனை டென்னிஸ் பந்துகளைக் கொண்டுள்ளார்?",
+    "steps": "ரோஜர் 5 பந்துகளால் தொடங்கினார். 3 டென்னிஸ் பந்துகளின் 2 பட்டிகள் ஒவ்வொன்றும் 6 டென்னிஸ் பந்துகள் ஆகும். 5 + 6 = 11.",
+    "answer": "பதில் 11 ஆகும்."
+  },
+  "tt": {
+    "instruction": "Син математика буенча ярдәмчесең, түбәндәге форматта фикер йөртү һәм соңгы җавап бирү.",
+    "question": "Роджерның биш теннис туплары бар. Ул тагын ике банка теннис туплары сатып ала. Һәр банкада өч теннис туплары бар. Хәзер аның ничә теннис туплары бар?",
+    "steps": "Роджер 5 туптан башланды. 2 банка 3 теннис туплары һәркайсы 6 теннис туплары. 5 + 6 = 11.",
+    "answer": "Җавап - 11."
+  },
+  "te": {
+    "instruction": "మీరు గణిత సహాయకుడు. దిగువ ఫార్మాట్ లో తర్కం మరియు తుది సమాధానం ఇవ్వండి.",
+    "question": "రోగర్కు ఐదు టెన్నిస్ బంతులే ఉన్నాయి. అతను మరో రెండు టేన్లు టెన్నిస్ బంతులను కొనుగోలు చేస్తాడు. ప్రతి టేన్లో మూడు టెన్నిస్ బంతులు ఉన్నాయి. ఇప్పుడు అతనికి ఎన్ని టెన్నిస్ బంతులు ఉన్నాయి?",
+    "steps": "రోగర్ 5 బంతులతో ప్రారంభించాడు. 3 టెన్నిస్ బంతుల 2 డబ్బాలు ప్రతి 6 టెన్నిస్ బంతులతో ఉంటాయి. 5 + 6 = 11.",
+    "answer": "సమాధానం 11 ఉంది."
+  },
+  "tg": {
+    "instruction": "Шумо мусоиди математика ҳастед. Ба тафаккур ва ҷавоби ниҳоӣ дар формати зер пешниҳод кунед.",
+    "question": "Роҷер 5 тӯби теннис дорад. Ӯ 2 қолин боз тӯби теннис харид. Ҳар як қолин 3 тӯби теннис дорад. Ҳоло чанд тӯби теннис дорад?",
+    "steps": "Роджер бо 5 тӯб оғоз кард. 2 қолин 3 тӯби теннис ҳар як 6 тӯби теннис аст. 5 + 6 = 11.",
+    "answer": "Ҷавоб 11 аст."
+  },
+  "tl": {
+    "instruction": "Ikaw ay isang math assistant. Magbigay ng pag-iisip at huling sagot sa format sa ibaba.",
+    "question": "Si Roger ay may 5 tennis ball. Bumili siya ng 2 pawang lata ng tennis ball. bawat lata ay may 3 tennis ball. Ilang tennis ball ang mayroon niya ngayon?",
+    "steps": "Nagsimula si Roger sa 5 bola. 2 lata ng 3 tennis ball ang bawat 6 tennis ball. 5 + 6 = 11.",
+    "answer": "Ang sagot ay 11."
+  },
+  "th": {
+    "instruction": "คุณเป็นผู้ช่วยคณิตศาสตร์ ให้คําตอบและคําตอบสุดท้ายในรูปแบบด้านล่าง",
+    "question": "โรเจอร์มีลูกเทนนิส 5 ลูก เขาซื้อลูกเทนนิส 2 ซองเพิ่ม ทุกกล่องมีลูกเทนนิส 3 ลูก ตอนนี้เขามีลูกเทนนิสกี่ลูก",
+    "steps": "โรเจอร์เริ่มต้นด้วย 5 ลูก 2 กล่องของ 3 ลูกเทนนิส แต่ละลูกเทนนิส 6 ลูก 5 + 6 = 11",
+    "answer": "คําตอบคือ 11"
+  },
+  "tk": {
+    "instruction": "Siz matematikanyň kömekçisiňiz. Ýokarda agzalan formatda pikirlenmek we soňky jogap bermek.",
+    "question": "Roger 5 sany tenis topy bar. Ol ýene 2 sany tenis topy satyn alýar. Her bir toýunda 3 sany tenis topy bar. Häzir onuň näçe sany tenis topy bar?",
+    "steps": "Roger bäş top bilen başlaýar. 2 toýun üç tennis topy her biri alty tennis topy. 5 + 6 = 11",
+    "answer": "Jawap 11"
+  },
+  "tr": {
+    "instruction": "Matematik asistanı olarak aşağıdaki formatta mantık ve son cevap verin.",
+    "question": "Roger'ın 5 tenis topu var. 2 tane daha satın alıyor. Her topu 3 tane tenis topu var. Şimdi kaç tane tenis topu var?",
+    "steps": "Roger 5 topla başladı. 2 kutu 3 tenis topu her biri 6 tenis topu. 5 + 6 = 11.",
+    "answer": "Cevap 11'dir."
+  },
+  "ug": {
+    "instruction": "سىز ماتېماتىكىغا ياردەمچى بولسىڭىز، تۆۋەندىكى فورماتتا تەپەككۇر ۋە ئاخىرقى جاۋابنى بېرىڭ.",
+    "question": "روجېرنىڭ 5 دانە تىيىن توپى بار. ئۇ يەنە 2 دانە تىيىن توپى سېتىۋالىدۇ. ھەر دانە تىيىن توپى 3 دانە. ھازىر ئۇ قانچە دانە تىيىن توپى بار؟",
+    "steps": "روجېر 5 توپتىن باشلىدى. ئىككى دانە 3 دانە تەننسىپىن توپى بىلەن، ھەر بىرى 6 دانە تەننسىپىن توپى بىلەن باشلاندى. 5 + 6 = 11.",
+    "answer": "بۇنىڭ جاۋابى: 11"
+  },
+  "uk": {
+    "instruction": "Ви є асистентом математики.",
+    "question": "Роджер має 5 теннісних топків. Він купує ще 2 банки теннісних топків. У кожній банку є 3 теннісні топки. Скільки теннісних топків у нього зараз?",
+    "steps": "Роджер почав з 5 м'язів. 2 банки з 3 м'язів для тенісу - 6 м'язів для тенісу. 5 + 6 = 11.",
+    "answer": "Відповідь - 11."
+  },
+  "ur": {
+    "instruction": "آپ ریاضی کے معاون ہیں، آپ ذیل میں فارمیٹ میں استدلال اور حتمی جواب دیں۔",
+    "question": "روجر کے پاس 5 ٹینس گیندیں ہیں۔ وہ مزید 2 ٹینس گیندوں کی کین خریدتا ہے۔ ہر کین میں 3 ٹینس گیندیں ہیں۔ اب اس کے پاس کتنے ٹینس گیندیں ہیں؟",
+    "steps": "روجر نے 5 گیندوں سے شروع کیا. 3 ٹینس گیندوں کی 2 کین ہر ایک 6 ٹینس گیندوں ہے. 5 + 6 = 11.",
+    "answer": "جواب 11 ہے"
+  },
+  "vi": {
+    "instruction": "Bạn là trợ lý toán học. Hãy đưa ra lý luận và câu trả lời cuối cùng trong định dạng dưới đây.",
+    "question": "Roger có 5 quả bóng tennis. Anh ấy mua thêm 2 hộp bóng tennis. Mỗi hộp có 3 quả bóng tennis. Anh ấy có bao nhiêu quả bóng tennis bây giờ?",
+    "steps": "Roger bắt đầu với 5 quả bóng. 2 hộp 3 quả bóng tennis mỗi quả là 6 quả bóng tennis. 5 + 6 = 11.",
+    "answer": "Câu trả lời là 11."
+  },
+  "yo": {
+    "instruction": "O jẹ́ òṣìṣẹ́ ìwádìí, kó o sì dáhùn ìbéèrè rẹ ní ìsàlẹ̀ yìí.",
+    "question": "Roger ní bọọlu tẹ́ńìsì márùn-ún, ó ra bọọlu tẹ́ńìsì méjì sí i, bọọlu tẹ́ńìsì mẹ́ta sí i nínú gbogbo bọọlu bẹ́ẹ̀. bọọlu tẹ́ńìsì mélòó ló ní báyìí?",
+    "steps": "Roger bẹ̀rẹ̀ pẹ̀lú bọọlu márùn-ún. 2 ìgò bọọlu tẹ́ńìsì mẹ́ta ní ìkòkòkò kọ̀ọ̀kan jẹ́ bọọlu tẹ́ńìsì mẹ́fà. 5 + 6 = 11.",
+    "answer": "Ìdáhùn rẹ̀ ni 11."
+  },
+  "sw": {
+    "instruction": "Wewe ni msaidizi wa hisabati. Toa hoja na jibu la mwisho katika muundo ulio chini.",
+    "question": "Roger ana mipira 5 ya tenisi. Ananunua makoba mengine 2 ya mipira ya tenisi. Kila makoba ina mipira 3 ya tenisi. Ana mipira mingapi ya tenisi sasa?",
+    "steps": "Roger alianza na mipira 5 2 ndoo ya mipira 3 ya tenisi kila ni 6 mipira tenisi 5 + 6 = 11.",
+    "answer": "Jibu ni 11."
+  },
+  "yi": {
+    "instruction": "איר זענט אַ מאַטאַמאַטיק אַסיסטאַנט. גיט באַריכטן און לעצט ענטפער אין די אונטן פֿאָרמאַט.",
+    "question": "ראָגער האט 5 טענעס באַללס ער קויפט 2 מער קאַטעס פון טענעס באַללס יעדער קאַטעס פון 3 טענעס באַללס ווי פילע טענעס באַללס ער האט איצט",
+    "steps": "ראָגער האָט אָנגעהויבן מיט 5 פּילקע. 2 קאַנעס פון 3 טענעס פּילקע יעדער איז 6 טענעס פּילקע. 5 + 6 = 11.",
+    "answer": "דער ענטפער איז 11."
+  },
+  "en": {
+    "instruction": "You are a math assistant. Give reasoning and final answer in the below format.",
+    "question": "Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?",
+    "steps": "Roger started with 5 balls. 2 cans of 3 tennis balls each is 6 tennis balls. 5 + 6 = 11. The answer is 11.",
+    "answer": "11"
+  },
+  "fr": {
+    "instruction": "Vous êtes un assistant de mathématiques. Donnez le raisonnement et la réponse finale dans le format ci-dessous.",
+    "question": "Roger a 5 balles de tennis. Il achète 2 autres boîtes de balles de tennis. Chaque boîte contient 3 balles. Combien de balles a-t-il maintenant ?",
+    "steps": "Roger a commencé avec 5 balles. 2 boîtes de 3 balles chacune font 6 balles. 5 + 6 = 11. La réponse est 11.",
+    "answer": "11"
+  },
+  "es": {
+    "instruction": "Eres un asistente de matemáticas. Da el razonamiento y la respuesta final en el siguiente formato.",
+    "question": "Roger tiene 5 pelotas de tenis. Compra 2 latas más de pelotas de tenis. Cada lata tiene 3 pelotas. ¿Cuántas pelotas tiene ahora?",
+    "steps": "Roger comenzó con 5 pelotas. 2 latas de 3 pelotas cada una son 6 pelotas. 5 + 6 = 11. La respuesta es 11.",
+    "answer": "11"
+  },
+  "zh": {
+    "instruction": "你是一个数学助手。请按以下格式给出推理过程和最终答案。",
+    "question": "Roger 有 5 个网球。他又买了 2 罐网球，每罐有 3 个网球。他现在有多少个网球？",
+    "steps": "Roger 开始时有 5 个球。2 罐，每罐 3 个球，总共有 6 个球。5 + 6 = 11。答案是 11。",
+    "answer": "11"
+  },
+  "ko": {
+    "instruction": "당신은 수학 조수입니다. 아래 형식으로 단계별 추론과 최종 답을 제공하세요.",
+    "question": "Roger는 5개의 테니스 공을 가지고 있습니다. 그는 테니스 공이 들어 있는 캔 2개를 더 샀습니다. 각 캔에는 3개의 테니스 공이 있습니다. 이제 그는 총 몇 개의 테니스 공을 가지고 있나요?",
+    "steps": "Roger는 처음에 5개의 공을 가지고 있었습니다. 3개의 공이 들어 있는 캔 2개는 6개의 공입니다. 5 + 6 = 11. 답은 11입니다.",
+    "answer": "11"
+  },
+  "hi": {
+    "instruction": "आप एक गणित सहायक हैं। नीचे दिए गए प्रारूप में तर्क और अंतिम उत्तर दें।",
+    "question": " Roger के पास 5 टेनिस गेंदें हैं। वह 2 और कैन टेनिस गेंदों के खरीदता है। प्रत्येक कैन में 3 टेनिस गेंदें हैं। अब उसके पास कितनी टेनिस गेंदें हैं?",
+    "steps": "Roger के पास शुरू में 5 गेंदें थीं। 3 गेंदों वाले 2 कैन = 6 गेंदें। 5 + 6 = 11। उत्तर है 11।",
+    "answer": "11"
+  }
+}

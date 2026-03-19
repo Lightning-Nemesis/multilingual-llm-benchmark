@@ -1,0 +1,175 @@
+Ref_Name,fasttext_code,NLLB_Code,Duplicate_Flag,Missing_Flag
+Tosk Albanian,als,als_Latn,FALSE,FALSE
+Egyptian Arabic,arz,arz_Arab,FALSE,FALSE
+Asturian,ast,ast_Latn,FALSE,FALSE
+South Azerbaijani,azb,azb_Arab,FALSE,FALSE
+Cebuano,ceb,ceb_Latn,FALSE,FALSE
+Central Kurdish,ckb,ckb_Arab,FALSE,FALSE
+Iloko,ilo,ilo_Latn,FALSE,FALSE
+Lombard,lmo,lmo_Latn,FALSE,FALSE
+Maithili,mai,mai_Deva,FALSE,FALSE
+Minangkabau,min,min_Latn,FALSE,FALSE
+Sicilian,scn,scn_Latn,FALSE,FALSE
+Venetian,vec,vec_Latn,FALSE,FALSE
+Waray (Philippines),war,war_Latn,FALSE,FALSE
+Yue Chinese,yue,yue_Hant,FALSE,FALSE
+Afrikaans,af,afr_Latn,FALSE,FALSE
+Amharic,am,amh_Ethi,FALSE,FALSE
+Assamese,as,asm_Beng,FALSE,FALSE
+Bashkir,ba,bak_Cyrl,FALSE,FALSE
+Belarusian,be,bel_Cyrl,FALSE,FALSE
+Bengali,bn,ben_Beng,FALSE,FALSE
+Tibetan,bo,bod_Tibt,FALSE,FALSE
+Bosnian,bs,bos_Latn,FALSE,FALSE
+Bulgarian,bg,bul_Cyrl,FALSE,FALSE
+Catalan,ca,cat_Latn,FALSE,FALSE
+Czech,cs,ces_Latn,FALSE,FALSE
+Welsh,cy,cym_Latn,FALSE,FALSE
+Danish,da,dan_Latn,FALSE,FALSE
+German,de,deu_Latn,FALSE,FALSE
+Modern Greek (1453-),el,ell_Grek,FALSE,FALSE
+English,en,eng_Latn,FALSE,FALSE
+Esperanto,eo,epo_Latn,FALSE,FALSE
+Estonian,et,est_Latn,FALSE,FALSE
+Basque,eu,eus_Latn,FALSE,FALSE
+Finnish,fi,fin_Latn,FALSE,FALSE
+French,fr,fra_Latn,FALSE,FALSE
+Scottish Gaelic,gd,gla_Latn,FALSE,FALSE
+Irish,ga,gle_Latn,FALSE,FALSE
+Galician,gl,glg_Latn,FALSE,FALSE
+Guarani,gn,grn_Latn,FALSE,FALSE
+Gujarati,gu,guj_Gujr,FALSE,FALSE
+Haitian,ht,hat_Latn,FALSE,FALSE
+Hebrew,he,heb_Hebr,FALSE,FALSE
+Hindi,hi,hin_Deva,FALSE,FALSE
+Croatian,hr,hrv_Latn,FALSE,FALSE
+Hungarian,hu,hun_Latn,FALSE,FALSE
+Armenian,hy,hye_Armn,FALSE,FALSE
+Indonesian,id,ind_Latn,FALSE,FALSE
+Icelandic,is,isl_Latn,FALSE,FALSE
+Italian,it,ita_Latn,FALSE,FALSE
+Javanese,jv,jav_Latn,FALSE,FALSE
+Japanese,ja,jpn_Jpan,FALSE,FALSE
+Kannada,kn,kan_Knda,FALSE,FALSE
+Georgian,ka,kat_Geor,FALSE,FALSE
+Kazakh,kk,kaz_Cyrl,FALSE,FALSE
+Khmer,km,khm_Khmr,FALSE,FALSE
+Kirghiz,ky,kir_Cyrl,FALSE,FALSE
+Korean,ko,kor_Hang,FALSE,FALSE
+Lao,lo,lao_Laoo,FALSE,FALSE
+Limburgan,li,lim_Latn,FALSE,FALSE
+Lithuanian,lt,lit_Latn,FALSE,FALSE
+Luxembourgish,lb,ltz_Latn,FALSE,FALSE
+Malayalam,ml,mal_Mlym,FALSE,FALSE
+Marathi,mr,mar_Deva,FALSE,FALSE
+Macedonian,mk,mkd_Cyrl,FALSE,FALSE
+Maltese,mt,mlt_Latn,FALSE,FALSE
+Burmese,my,mya_Mymr,FALSE,FALSE
+Dutch,nl,nld_Latn,FALSE,FALSE
+Norwegian Nynorsk,nn,nno_Latn,FALSE,FALSE
+Occitan (post 1500),oc,oci_Latn,FALSE,FALSE
+Panjabi,pa,pan_Guru,FALSE,FALSE
+Polish,pl,pol_Latn,FALSE,FALSE
+Portuguese,pt,por_Latn,FALSE,FALSE
+Romanian,ro,ron_Latn,FALSE,FALSE
+Russian,ru,rus_Cyrl,FALSE,FALSE
+Sanskrit,sa,san_Deva,FALSE,FALSE
+Sinhala,si,sin_Sinh,FALSE,FALSE
+Slovak,sk,slk_Latn,FALSE,FALSE
+Slovenian,sl,slv_Latn,FALSE,FALSE
+Sindhi,sd,snd_Arab,FALSE,FALSE
+Somali,so,som_Latn,FALSE,FALSE
+Spanish,es,spa_Latn,FALSE,FALSE
+Sardinian,sc,srd_Latn,FALSE,FALSE
+Serbian,sr,srp_Cyrl,FALSE,FALSE
+Sundanese,su,sun_Latn,FALSE,FALSE
+Swedish,sv,swe_Latn,FALSE,FALSE
+Tamil,ta,tam_Taml,FALSE,FALSE
+Tatar,tt,tat_Cyrl,FALSE,FALSE
+Telugu,te,tel_Telu,FALSE,FALSE
+Tajik,tg,tgk_Cyrl,FALSE,FALSE
+Tagalog,tl,tgl_Latn,FALSE,FALSE
+Thai,th,tha_Thai,FALSE,FALSE
+Turkmen,tk,tuk_Latn,FALSE,FALSE
+Turkish,tr,tur_Latn,FALSE,FALSE
+Uighur,ug,uig_Arab,FALSE,FALSE
+Ukrainian,uk,ukr_Cyrl,FALSE,FALSE
+Urdu,ur,urd_Arab,FALSE,FALSE
+Vietnamese,vi,vie_Latn,FALSE,FALSE
+Yoruba,yo,yor_Latn,FALSE,FALSE
+Chinese,zh,zho_Hans,TRUE,FALSE
+Chinese,zh,zho_Hant,TRUE,FALSE
+Bavarian,bar,,FALSE,TRUE
+Central Bikol,bcl,,FALSE,TRUE
+Bishnupriya,bpy,,FALSE,TRUE
+Russia Buriat,bxr,,FALSE,TRUE
+Chavacano,cbk,,FALSE,TRUE
+Dimli (individual language),diq,,FALSE,TRUE
+Lower Sorbian,dsb,,FALSE,TRUE
+Dotyali,dty,,FALSE,TRUE
+Northern Frisian,frr,,FALSE,TRUE
+Goan Konkani,gom,,FALSE,TRUE
+Fiji Hindi,hif,,FALSE,TRUE
+Upper Sorbian,hsb,,FALSE,TRUE
+Lojban,jbo,,FALSE,TRUE
+Karachay-Balkar,krc,,FALSE,TRUE
+Lezghian,lez,,FALSE,TRUE
+Northern Luri,lrc,,FALSE,TRUE
+Eastern Mari,mhr,,FALSE,TRUE
+Western Mari,mrj,,FALSE,TRUE
+Mirandese,mwl,,FALSE,TRUE
+Erzya,myv,,FALSE,TRUE
+Mazanderani,mzn,,FALSE,TRUE
+Neapolitan,nap,,FALSE,TRUE
+Low German,nds,,FALSE,TRUE
+Nepal Bhasa,new,,FALSE,TRUE
+Pampanga,pam,,FALSE,TRUE
+Pfaelzisch,pfl,,FALSE,TRUE
+Piemontese,pms,,FALSE,TRUE
+Western Panjabi,pnb,,FALSE,TRUE
+Rusyn,rue,,FALSE,TRUE
+Yakut,sah,,FALSE,TRUE
+Scots,sco,,FALSE,TRUE
+Tuvinian,tyv,,FALSE,TRUE
+Veps,vep,,FALSE,TRUE
+Vlaams,vls,,FALSE,TRUE
+Wu Chinese,wuu,,FALSE,TRUE
+Kalmyk,xal,,FALSE,TRUE
+Mingrelian,xmf,,FALSE,TRUE
+Arabic,ar,,FALSE,TRUE
+Aragonese,an,,FALSE,TRUE
+Avaric,av,,FALSE,TRUE
+Azerbaijani,az,,FALSE,TRUE
+Breton,br,,FALSE,TRUE
+Chechen,ce,,FALSE,TRUE
+Chuvash,cv,,FALSE,TRUE
+Cornish,kw,,FALSE,TRUE
+Corsican,co,,FALSE,TRUE
+Dhivehi,dv,,FALSE,TRUE
+Persian,fa,,FALSE,TRUE
+Western Frisian,fy,,FALSE,TRUE
+Manx,gv,,FALSE,TRUE
+Serbo-Croatian,sh,,FALSE,TRUE
+Ido,io,,FALSE,TRUE
+Interlingue,ie,,FALSE,TRUE
+Interlingua (International Auxiliary Language Association),ia,,FALSE,TRUE
+Komi,kv,,FALSE,TRUE
+Kurdish,ku,,FALSE,TRUE
+Latin,la,,FALSE,TRUE
+Latvian,lv,,FALSE,TRUE
+Malagasy,mg,,FALSE,TRUE
+Mongolian,mn,,FALSE,TRUE
+Malay (macrolanguage),ms,,FALSE,TRUE
+Nepali (macrolanguage),ne,,FALSE,TRUE
+Norwegian,no,,FALSE,TRUE
+Oriya (macrolanguage),or,,FALSE,TRUE
+Iron Ossetic,os,,FALSE,TRUE
+Pushto,ps,,FALSE,TRUE
+Quechua,qu,,FALSE,TRUE
+Romansh,rm,,FALSE,TRUE
+Albanian,sq,,FALSE,TRUE
+Swahili (macrolanguage),sw,swh_Latn,FALSE,FALSE
+Uzbek,uz,,FALSE,TRUE
+Volapük,vo,,FALSE,TRUE
+Walloon,wa,,FALSE,TRUE
+Yiddish,yi,ydd_Hebr,FALSE,FALSE

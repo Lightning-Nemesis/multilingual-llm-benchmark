@@ -1,0 +1,305 @@
+{
+  "als": {
+    "instruction": "Ju jeni një asistent matematikor. jepni zgjidhjen e problemit në hapa. jepni përgjigje përfundimtare numerike."
+  },
+  "arz": {
+    "instruction": "انت مساعد رياضيات. اعط حل المشكلة بخطوات. اعط إجابة رقمية نهائية."
+  },
+  "ast": {
+    "instruction": "Ye un asistente matemáticu. Da la solución al problema en pasos. Da la respuesta numérica final."
+  },
+  "azb": {
+    "instruction": "ریاضیات یارادیجیسیسان.مسله یه حلّ قدملرله ور.آخری سانلی جاواب ور."
+  },
+  "ceb": {
+    "instruction": "Ikaw usa ka math assistant. Hatagi ang solusyon sa problema sa mga lakang. Hatagi ang kataposang numerical tubag."
+  },
+  "ckb": {
+    "instruction": "تۆ یاریدەدەری بیرکاریییت. بە هەنگاوەکان چارەسەر بۆ کێشەکە بدە. بە ژمارە وەڵامێکی کۆتایی بدە."
+  },
+  "ilo": {
+    "instruction": "Matematiko nga asistenteka. Mangtedka iti solusion iti problema iti addang. Mangtedka iti maudi a numeriko a sungbat."
+  },
+  "lmo": {
+    "instruction": "Te gh'è un assistent matemàtich. Dà la solüssion al problema in passi. Dà la risposta numerica finala."
+  },
+  "mai": {
+    "instruction": "अहाँ गणितक सहायक छी. समस्याक समाधान चरणमे दिअ. अंतिम संख्यात्मक उत्तर दिअ."
+  },
+  "min": {
+    "instruction": "Awak adolah asistennya matematika. Sangaiklah solusi untuak masalah dalam langkah. Sangaiklah jawaban numerik akhir."
+  },
+  "scn": {
+    "instruction": "Tu si 'n assistente di matematica. Dati la suluzioni ô prublema nta passi. Dati la risposta numerica finali."
+  },
+  "vec": {
+    "instruction": "Te xe un assistente matematico. Da la solusion del problema in passi. Da ła risposta numerica definitiva."
+  },
+  "war": {
+    "instruction": "Ikaw usa nga asistent ha matematika. Hatagi an solusyon ha problema ha mga pitad. Hatagi an ultimo nga numerical nga baton."
+  },
+  "yue": {
+    "instruction": "你係數學助理 你會按步骤解決問題 畀最終數字答案"
+  },
+  "af": {
+    "instruction": "Jy is 'n wiskunde assistent. Gee die oplossing van die probleem in stappe. Gee die finale numeriese antwoord."
+  },
+  "am": {
+    "instruction": "አንተ የሂሳብ ረዳት ነህ፤ ለችግሩ መፍትሔን በደረጃዎች ስጥ። የመጨረሻውን የቁጥር መልስ ስጥ።"
+  },
+  "as": {
+    "instruction": "আপুনি গণিতৰ সহায়ক, সমস্যাটোৰ সমাধান ধাপে ধাপে দিয়ক, চূড়ান্ত সংখ্যাগত উত্তৰ দিয়ক।"
+  },
+  "ba": {
+    "instruction": "Һеҙ математика ярҙамсыһы. Проблеманы этаплап хәл итегеҙ. Һуңғы һанлы яуап бирегеҙ."
+  },
+  "be": {
+    "instruction": "Вы матэматычны асістэнт. Дайце рашэнне праблемы ў кроках. Дайце канчатковы лічбавы адказ."
+  },
+  "bn": {
+    "instruction": "আপনি একজন গণিত সহায়ক, সমস্যার সমাধান ধাপে ধাপে করুন। চূড়ান্ত সংখ্যাগত উত্তর দিন।"
+  },
+  "bo": {
+    "instruction": "ཁྱེད་ནི་རྩིས་རིག་གི་རོགས་པ་ཡིན། གྲོས་འདེབས་ཀྱི་ཐབས་ལམ་ཞིག་སྤྲོད་ཅིག མཐའ་མའི་གྲངས་རྩིས་ཀྱི་ལན་འདེབས་ཞིག་སྤྲོད་ཅིག"
+  },
+  "bs": {
+    "instruction": "Ti si matematički asistent, daješ rešenje problema u koraka, daješ konačni numerički odgovor."
+  },
+  "bg": {
+    "instruction": "Вие сте помощник по математика, дайте решение на проблема в стъпки, дайте окончателен цифров отговор."
+  },
+  "ca": {
+    "instruction": "És un assistent matemàtic. Donar la solució al problema en passos. Donar la resposta numèrica final."
+  },
+  "cs": {
+    "instruction": "Jste asistentka matematiky, dáte řešení problému krokem, dáte konečnou číselnou odpověď."
+  },
+  "cy": {
+    "instruction": "Rydych yn gymorth mathemategol. Rhowch ateb i'r broblem mewn camau. Rhowch ateb rhifol terfynol."
+  },
+  "da": {
+    "instruction": "Du er en matematikassistent, giver løsningen på problemet i trin. Giv det endelige numeriske svar."
+  },
+  "de": {
+    "instruction": "Sie sind Mathematikassistentin, geben Sie die Lösung des Problems in Schritten."
+  },
+  "el": {
+    "instruction": "Είσαι βοηθός μαθηματικών. Δώσε την λύση στο πρόβλημα σε βήματα. Δώσε την τελική αριθμητική απάντηση."
+  },
+  "eo": {
+    "instruction": "Vi estas matematika asistanto. Donu la solvon al la problemo en paŝoj. Donu la finan numerikan respondon."
+  },
+  "et": {
+    "instruction": "Sa oled matemaatika assistent, anna probleemi lahenduse sammude kaupa. Anna lõplik numeriline vastus."
+  },
+  "eu": {
+    "instruction": "Matematikako laguntzailea zara, eman irtenbidea urrats bidez. Emaiozu azken erantzun numerikoa."
+  },
+  "fi": {
+    "instruction": "Olet matemaattinen apulainen, antakaa ongelman ratkaisun askeleissa."
+  },
+  "gd": {
+    "instruction": "Tha thu na neach-taic matamaigeach. Thoir an fhuasgladh don fhadhb ann an ceumannan. Thoir an fhreagairt uireadanach."
+  },
+  "ga": {
+    "instruction": "Is cúntóir matamaitic tú. Tabhair réiteach don fhadhb i céimeanna. Tabhair freagra uimhreacha deiridh."
+  },
+  "gl": {
+    "instruction": "É un asistente de matemáticas, dar a solución ao problema en pasos, dar unha resposta numérica final."
+  },
+  "gn": {
+    "instruction": "Nde niko matemática pytyvõhára. Ehechauka solución pe problema step-pe. Ehechauka respuesta numérica final."
+  },
+  "gu": {
+    "instruction": "તમે ગણિત સહાયક છો. સમસ્યાનું સમાધાન પગલાંમાં આપો. અંતિમ સંખ્યાત્મક જવાબ આપો."
+  },
+  "ht": {
+    "instruction": "Ou se yon asistan matematik. Bay solisyon a pwoblèm nan nan etap. Bay repons final numerik."
+  },
+  "he": {
+    "instruction": "אתה עוזר למתמטיקה, תן את הפתרון לבעיה בצעדים, תן את התשובה המסופית הסופית."
+  },
+  "hr": {
+    "instruction": "Vi ste pomoćnik matematike. Daj rješenje problema u koraka."
+  },
+  "hu": {
+    "instruction": "Ön egy matematikai asszisztens, lépésről lépésre adja a megoldást, végleges számszerű válasz."
+  },
+  "hy": {
+    "instruction": "Դուք մաթեմատիկայի օգնական եք: Խնդրի լուծումը տվեք քայլերով: Վերջնական թվային պատասխանը տվեք:"
+  },
+  "id": {
+    "instruction": "Anda adalah asisten matematika. Beri solusi untuk masalah dalam langkah. Beri jawaban numerik akhir."
+  },
+  "is": {
+    "instruction": "Þú ert stærðfræðingur, geftu lausnina á vandamálið í skrefum, gefðu lokatölvunni."
+  },
+  "it": {
+    "instruction": "Sei un assistente matematico, dai la soluzione al problema in passaggi, dai la risposta finale numerico."
+  },
+  "jv": {
+    "instruction": "Sampeyan asisten matematika. wenehi solusi kanggo masalah ing langkah. wenehi jawaban numerik final."
+  },
+  "ja": {
+    "instruction": "計算の助手です. ステップで問題を解決します. 最終的な数値で答えをください."
+  },
+  "kn": {
+    "instruction": "ನೀವು ಗಣಿತ ಸಹಾಯಕ. ಸಮಸ್ಯೆಗೆ ಪರಿಹಾರವನ್ನು ಹಂತಗಳಲ್ಲಿ ನೀಡಿ. ಅಂತಿಮ ಸಂಖ್ಯಾ ಉತ್ತರವನ್ನು ನೀಡಿ."
+  },
+  "ka": {
+    "instruction": "თქვენ ხართ მათემატიკის ასისტენტი. მიეცით პრობლემის გადაწყვეტა ნაბიჯებით. მიეცით საბოლოო რიცხვობრივი პასუხი."
+  },
+  "kk": {
+    "instruction": "Сіз математика көмекшісісіз. Мәселеге қадамдармен шешім беріңіз. Соңғы сандық жауап беріңіз."
+  },
+  "km": {
+    "instruction": "អ្នក ជា ជំនួយការ គណិតវិទ្យា សូម ផ្តល់ ដំណោះស្រាយ ដល់ បញ្ហា ទាំង អស់ ដោយ ជំហាន ជំហាន ជំហាន ផ្តល់ ដំណោះស្រាយ លេខ ចុង ក្រោយ"
+  },
+  "ky": {
+    "instruction": "Сиз математика боюнча жардамчысыз. Маселеге чечилишти кадамдар менен бериңиз. Акыркы сандык жоопту бериңиз."
+  },
+  "lo": {
+    "instruction": "ທ່ານເປັນຜູ້ຊ່ວຍດ້ານວິທະຍາສາດ ໃຫ້ການແກ້ໄຂບັນຫາໃນຂັ້ນຕອນ ໃຫ້ການຕອບສະ ຫນອງ ຕົວເລກສຸດທ້າຍ"
+  },
+  "li": {
+    "instruction": "Je is 'n wiskunde assistent. Geet de oplossing van 't probleem in stappen. Geet ein eindnummer."
+  },
+  "lt": {
+    "instruction": "Jūs esate matematikos asistentas. Pateikite problemos sprendimą žingsniais. Pateikite galutinį skaičių atsakymą."
+  },
+  "lb": {
+    "instruction": "Dir sidd e Mathematikassistent. Gitt d'Léisung vum Problem an Schrëtt. Gitt déi lescht numeresch Äntwert."
+  },
+  "ml": {
+    "instruction": "നിങ്ങൾ ഒരു ഗണിത അസിസ്റ്റന്റ് ആണ്. പ്രശ്നം പരിഹരിക്കുക. അവസാന നമ്പറായി ഉത്തരം നൽകുക."
+  },
+  "mr": {
+    "instruction": "तुम्ही गणित सहाय्यक आहात. समस्येचे उपाय पावलेत द्या. अंतिम संख्यात्मक उत्तर द्या."
+  },
+  "mk": {
+    "instruction": "Ти си математички асистент. Дај решение на проблемот во чекори. Дај конечно бројно одговор."
+  },
+  "mt": {
+    "instruction": "Inti assistent matematika. tagħti s-soluzzjoni għall-problema f'passi. tagħti risposta finali numerika."
+  },
+  "my": {
+    "instruction": "သင်ဟာ သင်္ချာအကူပါ၊ ပြဿနာကို အဆင့်ဆင့် ဖြေရှင်းပေးပါ။ နောက်ဆုံး ကိန်းဂဏန်း အဖြေကို ပေးပါ။"
+  },
+  "nl": {
+    "instruction": "Je bent een wiskundige assistent. Geef de oplossing van het probleem in stappen. Geef het laatste numerieke antwoord."
+  },
+  "nn": {
+    "instruction": "Du er ein matteassistent. Gi løsninga på problemet i trekk. Gi det endelige numeralvørsla."
+  },
+  "oc": {
+    "instruction": "Es un assistent de matematicas. Donatz la solucion al problèma en passes. Dauzatz la responsa numerica finala."
+  },
+  "pa": {
+    "instruction": "ਤੁਸੀਂ ਇੱਕ ਗਣਿਤ ਸਹਾਇਕ ਹੋ. ਸਮੱਸਿਆ ਦਾ ਹੱਲ ਕਦਮ ਵਿੱਚ ਦਿਓ. ਅੰਤਮ ਸੰਖਿਆਤਮਕ ਜਵਾਬ ਦਿਓ."
+  },
+  "pl": {
+    "instruction": "Jesteś asystentem matematycznym, daj rozwiązanie problemu w krokich."
+  },
+  "pt": {
+    "instruction": "Você é assistente de matemática, dê a solução do problema em passos, dê a resposta numérica final."
+  },
+  "ro": {
+    "instruction": "Eşti un asistent la matematică, dă-i soluţia la trepte, dă-i răspunsul final numeric."
+  },
+  "ru": {
+    "instruction": "Вы помощник математики, дайте решение проблемы шагами, дайте окончательный числовой ответ."
+  },
+  "sa": {
+    "instruction": "भवद्भिः गणितस्य सहायकः भवद्भिः समस्यस्य समाधानं चरणैः प्रतिपादयितुं शक्नुत।"
+  },
+  "si": {
+    "instruction": "ඔයා ගණිත උපකාරකයෙක්. ප් රශ්නෙට විසඳුම පියවරෙන් පියවර දෙන්න. අවසාන සංඛ් යාත්මක පිළිතුර දෙන්න."
+  },
+  "sk": {
+    "instruction": "Ste asistentka matematiky, dáte riešenie problému postupne, konečnú číselnú odpoveď."
+  },
+  "sl": {
+    "instruction": "Ti si pomočnik matematike, dajte rešitev problema v korakih, zadnja številka odgovora."
+  },
+  "sd": {
+    "instruction": "توهان رياضيات جي هڪ مددگار آهيو. قدم ۾ مسئلي جو حل ڏيو. آخري عددي جواب ڏيو."
+  },
+  "so": {
+    "instruction": "Waxaad tahay kaaliyaha xisaabta. Xalka dhibaatada ku sii tallaabooyinka. Jawaab tirakoob ah ugu dambeeya."
+  },
+  "sc": {
+    "instruction": "Tue ses un'assistente de matemàtica. Dat sa solutzione a su problema in passos. Dat sa risposta numèrica definitiva."
+  },
+  "sr": {
+    "instruction": "Ти си математички асистент. Дај решење проблема у корацима. Дај коначни бројни одговор."
+  },
+  "su": {
+    "instruction": "Anjeun asisten matematika. méré solusi pikeun masalah dina léngkah. méré jawaban numerik final."
+  },
+  "sv": {
+    "instruction": "Du är en matematikassistent, ge lösningen på problemet i steg, ge slutlig numerisk svar."
+  },
+  "ta": {
+    "instruction": "நீங்கள் ஒரு கணித உதவியாளர். ஒரு சிக்கலை படிகளில் தீர்க்கவும். இறுதி எண் பதிலை வழங்கவும்."
+  },
+  "tt": {
+    "instruction": "Син математика буенча ярдәмчесең. Мәсьәләне адымнар белән хәл ит. Соңгы санлы җавап бир."
+  },
+  "te": {
+    "instruction": "మీరు గణిత సహాయకుడు. సమస్యకు పరిష్కారం దశల్లో ఇవ్వండి. చివరి సంఖ్యా సమాధానాలు ఇవ్వండి."
+  },
+  "tg": {
+    "instruction": "Шумо мусоиди математика ҳастед. Ба ҳалли мушкилот дар қадамҳо диҳед. Ҷавоби охирини рақамӣ диҳед."
+  },
+  "tl": {
+    "instruction": "Ikaw ay isang math assistant. magbigay ng solusyon sa problema sa mga hakbang. magbigay ng huling numerical sagot."
+  },
+  "th": {
+    "instruction": "คุณเป็นผู้ช่วยคณิตศาสตร์ ให้คําตอบปัญหาในขั้นตอน ให้คําตอบเลขสุดท้าย"
+  },
+  "tk": {
+    "instruction": "Sen matematikanyň kömekçisi. Soragyň çäresini ädimlerde beriň. Ahyr sany jogap beriň."
+  },
+  "tr": {
+    "instruction": "Matematik asistanı olarak, sorunun çözümü adım adım ver."
+  },
+  "ug": {
+    "instruction": "سىز ماتېماتىكىغا ياردەمچى بولسىڭىز، مەسىلىنى بىر قەدەم بويىچە ھەل قىلىڭ. ئاخىرىدا سانلىق جاۋاب بېرىڭ."
+  },
+  "uk": {
+    "instruction": "Ви є асистентом математики. Дайте рішення проблеми в кроках. Дайте остаточну числову відповідь."
+  },
+  "ur": {
+    "instruction": "آپ ریاضی کے معاون ہیں۔ اس مسئلے کا حل قدم میں دیں۔ حتمی عددی جواب دیں۔"
+  },
+  "vi": {
+    "instruction": "Bạn là một trợ lý toán học. Hãy giải quyết vấn đề bằng các bước. Hãy trả lời bằng số cuối cùng."
+  },
+  "yo": {
+    "instruction": "O jẹ olùrànlọ́wọ́ nínú ìṣirò. Sọ ojútùú sí ìṣòro náà ní àwọn ìgbésẹ̀. Sọ ìdáhùn àbáyọ ní àbáyọ̀."
+  },
+  "sw": {
+    "instruction": "Wewe ni msaidizi wa hisabati. Toa suluhisho la tatizo kwa hatua. Toa jibu la mwisho la nambari."
+  },
+  "yi": {
+    "instruction": "איר זענט אַ מאַטאַמאַטיק אַסיסטאַנט. גיט די לייזונג צו דעם פּראָבלעם אין טריט. גיט די לעצט נומעריקאַל ענטפער."
+  },
+  "en": {
+    "instruction": "You are a math assistant. Give the solution to the problem in steps. Give final numerical answer."
+  },
+  "fr": {
+    "instruction": "Vous êtes un assistant de mathématiques. Donnez la solution du problème en étapes. Donnez la réponse numérique finale."
+  },
+  "es": {
+    "instruction": "Eres un asistente de matemáticas. Da la solución al problema en pasos. Da la respuesta numérica final."
+  },
+  "zh": {
+    "instruction": "你是一名数学助手。请分步骤给出题目的解答。给出最终的数值答案。"
+  },
+  "ko": {
+    "instruction": "당신은 수학 보조자입니다. 문제의 풀이를 단계별로 제시하세요. 최종 수치 답을 제시하세요."
+  },
+  "hi": {
+    "instruction": "आप एक गणित सहायक हैं। समस्या का समाधान चरणों में दें। अंतिम संख्यात्मक उत्तर दें।"
+  }
+}
