@@ -1,0 +1,68 @@
+# =============================================================
+#  LLM Multilingual Benchmark — .gitignore
+# =============================================================
+
+# ── Large data files ──────────────────────────────────────────
+# Translated multilingual datasets (can be reproduced via notebooks)
+*.jsonl
+*.json
+
+# Keep prompt/config JSON files
+!prompts/translations_prompt_mgsm.json
+!prompts/translations_prompt_msvamp.json
+!prompts/translations.json
+
+# ── FastText model binary ─────────────────────────────────────
+lid.176.bin
+
+# ── Intermediate / scratch files ─────────────────────────────
+*_interim.jsonl
+*_interim.*
+test.csv
+test.jsonl
+
+# ── Jupyter notebook checkpoints ─────────────────────────────
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.Python
+
+# ── Virtual environments ──────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── OS / Editor ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── HuggingFace cache ─────────────────────────────────────────
+~/.cache/huggingface/
+
+# ── vLLM / model weights ─────────────────────────────────────
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+wandb/
+runs/
