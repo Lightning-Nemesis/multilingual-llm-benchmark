@@ -137,17 +137,6 @@ pip install -r requirements.txt
 
 ---
 
-## Contributors
-
-| Contributor | Responsibilities |
-|---|---|
-| Amrit | Math eval, token distribution, self-consistency (MGSM/SVAMP), back-translation |
-| Bhavan | Reasoning eval, self-consistency (MMLU/M-ARC), back-translation |
-| Karthik | Commonsense eval, self-consistency (XCOPA/XCSQA/XCODAH), back-translation |
-| Omkar | Healthcare eval, self-consistency (HealthcareQA) |
-
----
-
 ## Citation / References
 
 - OLMo 2: [arXiv:2501.00656](https://arxiv.org/abs/2501.00656)
